@@ -31,7 +31,7 @@
       </tr>
       <tr>
         <td>2019-2022</td>
-        <td>PERSUING BCA</td>
+        <td>PURSUING BCA</td>
       </tr>
     </tbody>
   </table>
