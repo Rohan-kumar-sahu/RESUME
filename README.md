@@ -55,16 +55,8 @@
   <a href="CONTACT DETAIL.HTML">CONTACT ME</a>
   </body>
 </html>
-© 2021 GitHub, Inc.
+© 2021 Rohan kumar sahu, Inc.
 Terms
 Privacy
 Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
+
